@@ -1,6 +1,6 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-06-09T10:12:09.000Z"
+generated_at = "2026-06-09T12:47:39.000Z"
 site_name = "Honey"
 site_description = ""
 site_language = "en"
@@ -63,6 +63,6 @@ sequence = "00"
 slug = "thoughts"
 title = "Thoughts"
 description_html = "<p>Imported from Apollo Thoughts.</p>"
-entry_count = 9
-recent_activity_label = "5d ago"
-recent_activity_iso = "2026-06-04T00:00:00.000Z"
+entry_count = 8
+recent_activity_label = "7d ago"
+recent_activity_iso = "2026-06-02T00:00:00.000Z"
