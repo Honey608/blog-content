@@ -4,12 +4,15 @@ date: "2026-06-09T07:55:40.000Z"
 updated: "2026-06-09T07:58:11.000Z"
 slug: "hmi86"
 type: "post"
+aliases:
+  - "/b3d5y/"
 format: "quote"
 status: "published"
 visibility: "public"
 summary_text: "将人生看作管理一个投资组合，目标不是追求单次决策的最佳结果，而是通过建立科学系统，在长期的概率博弈中让运气站在自己这一边"
 source_name: "安妮·杜克（Annie Du）"
 quote_text: "将人生看作管理一个投资组合，目标不是追求单次决策的最佳结果，而是通过建立科学系统，在长期的概率博弈中让运气站在自己这一边"
+last_activity_at: "2026-06-09T07:58:59.000Z"
 ---
 
 
