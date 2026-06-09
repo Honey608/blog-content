@@ -1,7 +1,7 @@
 ---
 id: "pst_01ktnhexy1fvkvq6zvgg34aqsd"
-date: "2026-06-09T06:35:02.000Z"
-updated: "2026-06-09T06:36:23.000Z"
+date: "2026-01-03T06:35:00.000Z"
+updated: "2026-06-09T07:02:22.000Z"
 slug: "oc4ng"
 type: "post"
 format: "quote"
