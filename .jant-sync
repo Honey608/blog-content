@@ -1,0 +1,15 @@
+{
+  "schema_version": 3,
+  "site_id": "sit_01ktn3s96cecya69wnb719zdjf",
+  "site_host": "jant-blog.xz341374.workers.dev",
+  "created_at": 1780973678,
+  "managed_globs": [
+    "content/**",
+    "data/jant.toml",
+    "themes/jant/**",
+    "hugo.toml",
+    ".gitignore",
+    "README.md",
+    ".jant-sync"
+  ]
+}
