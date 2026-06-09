@@ -2,12 +2,13 @@
 id: "pst_01ktnqdactesjrr7jz9fhdt1yg"
 title: "关于搜索"
 date: "2026-04-02T00:00:00.000Z"
-updated: "2026-06-09T08:19:01.000Z"
+updated: "2026-06-09T10:12:08.000Z"
 slug: "2026-04-02-smart-notes"
 type: "post"
+draft: true
 format: "note"
 status: "published"
-visibility: "public"
+visibility: "private"
 summary_text: "为什么英文搜索质量比中文高？ 1. 英文内容占互联网绝对主导 全球超过 50% 的网页内容是英文中文内容只占不到 2%搜索引擎能抓到的英文资料远比中文多得多"
 collections:
   - slug: "thoughts"
