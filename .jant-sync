@@ -1,7 +1,7 @@
 {
   "schema_version": 3,
   "site_id": "sit_01ktn3s96cecya69wnb719zdjf",
-  "site_host": "jant-blog.xz341374.workers.dev",
+  "site_host": "artbyhoney.com",
   "created_at": 1780973678,
   "managed_globs": [
     "content/**",
