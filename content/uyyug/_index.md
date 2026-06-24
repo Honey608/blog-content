@@ -1,6 +1,7 @@
 ---
 id: "pst_01kvvmv41kesh9kdc8j32jzdc7"
 date: "2026-06-24T01:45:16.000Z"
+updated: "2026-06-24T01:45:59.000Z"
 slug: "uyyug"
 type: "post"
 format: "quote"
