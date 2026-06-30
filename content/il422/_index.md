@@ -1,12 +1,13 @@
 ---
 id: "pst_01kwcd657jfzw9hxkprav5gbd9"
 date: "2026-06-30T13:58:34.000Z"
+updated: "2026-06-30T14:04:40.000Z"
 slug: "il422"
 type: "post"
 format: "note"
 status: "published"
 visibility: "public"
-summary_text: "回望过去深有感触，二十岁的时候看到不知道能理解多少。"
+summary_text: "30岁的人看这本书，往往少了一份“跃跃欲试”的轻松，多了一份“原来如此”的唏嘘——那些20岁时踩过的坑、错过的弱链接、荒废的时间，都已经在30岁的现实生活里标好了代价"
 media:
   - id: "med_01kwcd64ysfzw9hxkcf6sgene5"
     kind: "text"
@@ -21,4 +22,4 @@ media:
     storage_key: "media/sit_01ktn3s96cecya69wnb719zdjf/files/med_01kwcd64ysfzw9hxkcf6sgene5.md"
 ---
 
-回望过去深有感触，二十岁的时候看到不知道能理解多少。
+30岁的人看这本书，往往少了一份“跃跃欲试”的轻松，多了一份“原来如此”的唏嘘——那些20岁时踩过的坑、错过的弱链接、荒废的时间，都已经在30岁的现实生活里标好了代价
