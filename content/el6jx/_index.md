@@ -1,13 +1,13 @@
 ---
 id: "pst_01kxgagcnpenes1d266wpac0ba"
 date: "2026-07-14T12:44:23.000Z"
-updated: "2026-07-14T14:29:33.000Z"
+updated: "2026-07-14T14:30:42.000Z"
 slug: "el6jx"
 type: "post"
 format: "note"
 status: "published"
 visibility: "public"
-summary_text: "MBTI 测试"
+summary_text: "MBTI 测试，INTJ-A型"
 media:
   - id: "med_01kxgaewetenes1d1bk1f7114j"
     kind: "image"
@@ -34,4 +34,4 @@ media:
     storage_key: "media/sit_01ktn3s96cecya69wnb719zdjf/files/med_01kxgggyc6fztvb0yvc3kkmb9n.md"
 ---
 
-[MBTI](https://www.16personalities.com/free-personality-test)测试
+[MBTI](https://www.16personalities.com/free-personality-test)测试，INTJ-A型
