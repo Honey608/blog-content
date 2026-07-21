@@ -1,7 +1,7 @@
 ---
 id: "pst_01kxzx975ae049d6kp5fs7wp3d"
 date: "2026-07-19T14:01:00.000Z"
-updated: "2026-07-21T13:30:54.000Z"
+updated: "2026-07-21T13:32:51.000Z"
 slug: "at6vr"
 type: "post"
 format: "note"
@@ -57,6 +57,18 @@ media:
     size: 1484054
     provider: "r2"
     storage_key: "media/sit_01ktn3s96cecya69wnb719zdjf/files/med_01kxzxar3ce03vxv7ce6s9893z.webp"
+  - id: "med_01ky2e1zwhf268t1jr6arvpnp1"
+    kind: "image"
+    src: "https://media.artbyhoney.com/media/sit_01ktn3s96cecya69wnb719zdjf/files/med_01ky2e1zwhf268t1jr6arvpnp1.webp"
+    position: 3059
+    width: 1920
+    height: 2560
+    blurhash: "L8Fr#CC2}]#m00OtMx-BI:IAx]IU"
+    original_name: "IMG_20260719_071627.webp"
+    mime_type: "image/webp"
+    size: 1448942
+    provider: "r2"
+    storage_key: "media/sit_01ktn3s96cecya69wnb719zdjf/files/med_01ky2e1zwhf268t1jr6arvpnp1.webp"
 ---
 
 第一天，顶着烈日来到地里，在泥土里挖坑、施肥。手指和手掌气泡，挥汗如雨，脖子僵硬的感觉得到了治疗。
