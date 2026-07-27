@@ -1,17 +1,17 @@
 format = "jant-site"
 version = 1
-generated_at = "2026-07-21T13:33:56.000Z"
+generated_at = "2026-07-27T22:17:50.000Z"
 site_name = "Honey"
 site_description = ""
 site_language = "zh-Hans"
 home_default_view = "latest"
 main_rss_feed = "featured"
 show_jant_branding_on_home = false
-show_header_avatar = false
+show_header_avatar = true
 noindex = false
-site_avatar_mode = "none"
-favicon_mode = "default"
-apple_touch_mode = "default"
+site_avatar_mode = "custom"
+favicon_mode = "custom"
+apple_touch_mode = "custom"
 theme_id = "paper"
 default_theme_id = "tufte"
 font_theme_id = "classic"
@@ -21,6 +21,8 @@ archive_page_size = 50
 rss_feed_limit = 50
 favicon_path = "/favicon.ico"
 apple_touch_icon_path = "/apple-touch-icon.png"
+site_avatar_url = "https://media.artbyhoney.com/media/sit_01ktn3s96cecya69wnb719zdjf/assets/avatar/med_01ky4dxpppfk0v3x61nzb6gc9c.png"
+favicon_version = "202607220808"
 
 [[nav]]
 type = "system"
