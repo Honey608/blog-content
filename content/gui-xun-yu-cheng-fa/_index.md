@@ -2,7 +2,7 @@
 id: "pst_01m2swdde7exwb34pdjp114evx"
 title: "规训与惩罚"
 date: "2026-09-18T09:08:59.000Z"
-updated: "2026-09-18T09:09:25.000Z"
+updated: "2026-09-18T09:55:21.000Z"
 slug: "gui-xun-yu-cheng-fa"
 type: "post"
 format: "link"
